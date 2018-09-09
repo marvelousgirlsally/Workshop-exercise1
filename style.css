@@ -26,3 +26,9 @@ body {
     color: blue }
   a:visited {
     color: purple }
+
+#special_box {
+  border-style:dashed;
+  border-color:blue;
+  background-color:pink;
+}
